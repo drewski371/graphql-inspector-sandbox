@@ -3,6 +3,6 @@ type Query {
 }
 
 type Test {
-  a: String
   b: String
+  c: Boolean
 }
