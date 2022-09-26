@@ -18,3 +18,4 @@ jobs:
       - uses: kamilkisiela/graphql-inspector@v3.4.0
         with:
           schema: "main:schema/schema.graphql"
+          annotations: false
